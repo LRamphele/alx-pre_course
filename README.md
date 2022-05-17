@@ -1,1 +1,1 @@
-My first readme
+How to update readme.md file in GitHub
